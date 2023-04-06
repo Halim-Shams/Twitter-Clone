@@ -1,24 +1,19 @@
-# README
+# Twidog
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### A simple clone of Twitter using Ruby on Rails
 
-Things you may want to cover:
+#
 
-* Ruby version
+#
 
-* System dependencies
+## Images
 
-* Configuration
+![Twidog.](https://i.ibb.co/wYZCyJN/Tweeter-Clone-Google-Chrome-4-6-2023-3-21-41-PM.png)
 
-* Database creation
+#
 
-* Database initialization
+![Twidog.](https://i.ibb.co/x75YYsg/Tweeter-Clone-Google-Chrome-4-6-2023-5-49-17-PM.png)
 
-* How to run the test suite
+#
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+![Twidog.](https://i.ibb.co/3CX9RsR/Tweeter-Clone-Google-Chrome-4-6-2023-5-49-35-PM.png)
