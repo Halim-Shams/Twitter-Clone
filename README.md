@@ -4,8 +4,6 @@
 
 #
 
-#
-
 ## Images
 
 ![Twidog.](https://i.ibb.co/wYZCyJN/Tweeter-Clone-Google-Chrome-4-6-2023-3-21-41-PM.png)
